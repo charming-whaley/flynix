@@ -10,3 +10,4 @@ struct BlurLayer: NSViewRepresentable {
     
     func updateNSView(_ nsView: NSVisualEffectView, context: Context) {  }
 }
+ 
