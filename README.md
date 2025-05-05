@@ -1,6 +1,6 @@
 # Flynix
 
-<p>Flynix is the lightweight macOS utility written in SwiftUI that helps creating icons for iOS, macOS, watchOS projects for developers using SF Symbols library. Current list of icons contains more than 50 symbols, and the quantity will be group up</p>
+<p>Flynix is the lightweight macOS utility written in SwiftUI that helps creating icons for iOS, macOS, and watchOS projects for developers using SF Symbols library. Current list of icons contains more than 50 symbols, and the quantity will be grown up</p>
 
 # System requirements
 
@@ -12,7 +12,7 @@
 
 # Installation
 
-<p>Clone this repo via link below to Xcode and run it on your Mac</p>
+<p>Clone this repo via the link below to Xcode and run it on your Mac</p>
 
 ```
 https://github.com/charming-whaley/flynix.git
@@ -20,6 +20,6 @@ https://github.com/charming-whaley/flynix.git
 
 # Performance
 
-<p>Creating icons in Flynix is very smooth: just choose how you prefer to see icon and tap download button at the bottom of the editor. Also, if you don't want to download the whole pack of icons, you can just copy the original icon to the clipboard</p>
+<p>Creating icons in Flynix is very smooth: just choose how you prefer to see your new icon and tap download button at the bottom of the editor. Also, if you don't want to download the whole pack of icons, you can just copy the original icon to the clipboard by tapping on the big icon in the editor window</p>
 
 ![image](https://github.com/user-attachments/assets/c6a3ea64-b6c6-4c6e-b875-bbc1d5985b94)
