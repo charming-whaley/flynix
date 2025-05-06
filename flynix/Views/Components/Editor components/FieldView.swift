@@ -32,7 +32,7 @@ struct FieldView: View {
     }
     
     private func copyToClipboard() {
-        let size = CGSize(width: 1280, height: 720)
+        let size = CGSize(width: 300, height: 300)
         let hostingView = NSHostingView(
             rootView: self.frame(
                 width: size.width,
